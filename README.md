@@ -1,2 +1,2 @@
 # Portfolio - Farhan Khatri
-<a href="https://www.localhost:443"> Portfolio</a>
+<a href="localhost:443"target="_blank"> Portfolio</a>
