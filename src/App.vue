@@ -9,5 +9,7 @@ import About from './components/About.vue'
 </template>
 
 <style scoped>
-
+body{
+  display: flex;
+}
 </style>
